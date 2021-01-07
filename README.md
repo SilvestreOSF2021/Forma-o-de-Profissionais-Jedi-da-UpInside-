@@ -36,5 +36,10 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 ## Formações Posteriores:
 
-#### [14. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades](https://www.upinside.com.br/certificados/5572943202010)
+#### 14. **ActiveCampaign** de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
 ![UpInside 14 Active Campaign](https://user-images.githubusercontent.com/76437195/103922522-3e234400-50ea-11eb-9532-24b45c6514d5.jpg)
+
+#### 13. [**Ambiente Local com Docker** de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
+!(https://user-images.githubusercontent.com/76437195/103941176-ddedcb80-5104-11eb-99ab-cb7bafb2392d.jpg) 
+
+
