@@ -42,7 +42,31 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 ...
 
-#### 13. [**Ambiente Local com Docker** de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
+#### [1. Full Stack PHP Developer de carga horária estimada em 145 horas, realizando 200 de 200 atividades, no período de 16/08/2018 a 17/05/2020](https://www.upinside.com.br/certificados/5572962202005)
+
+#### [2. ](https://www.upinside.com.br/certificados/5572953201912)
+
+#### [3. ](https://www.upinside.com.br/certificados/5572960202005)
+
+#### [4. ](https://www.upinside.com.br/certificados/5572951202006)
+
+#### [5. ](https://www.upinside.com.br/certificados/5572954202005)
+
+#### [6. ](https://www.upinside.com.br/certificados/5572961201912)
+
+#### [7. ](https://www.upinside.com.br/certificados/5572942202005)
+
+#### [8. ](https://www.upinside.com.br/certificados/5572948202005)
+
+#### [9. ](https://www.upinside.com.br/certificados/5572967202005)
+
+#### [10. ](https://www.upinside.com.br/certificados/5572939201912)
+
+#### [11. ](https://www.upinside.com.br/certificados/5572940201912)
+
+#### [12. ](https://www.upinside.com.br/certificados/5572956202004)
+
+#### [13. **Ambiente Local com Docker** de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
 
 ![UpInside 13 DOCKER WEB](https://user-images.githubusercontent.com/76437195/103945344-72f3c300-510b-11eb-8855-6519eaaf3a5c.jpg) 
 
