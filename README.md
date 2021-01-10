@@ -36,13 +36,16 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 ## Formações Posteriores:
 
-#### [14. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010) 
+#### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
+![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg) 
 
-#### [CSS Produtivo com SASS]
-![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg)
+#### [15. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
 
+#### [16. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
 
-...
+#### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
+
+# Primeiras 13 Formações:
 
 #### [1. Full Stack PHP Developer de carga horária estimada em 145 horas, realizando 200 de 200 atividades, no período de 16/08/2018 a 17/05/2020](https://www.upinside.com.br/certificados/5572962202005) 
 ![UPInside 01 FullStack PHP Developer](https://user-images.githubusercontent.com/76437195/104111175-6f03a480-52b5-11eb-96a0-2f91215b5f96.jpg)
