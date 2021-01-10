@@ -39,11 +39,15 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 #### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
 ![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg) 
 
-#### [15. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
+#### [15. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
+![UpInside MariaDB essentials](https://user-images.githubusercontent.com/76437195/104112101-04f0fc80-52c1-11eb-9f0b-d2404e9a7a92.jpg) 
 
-#### [16. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
+#### [16. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
+![UpInside ActiveCampaign](https://user-images.githubusercontent.com/76437195/104112093-e854c480-52c0-11eb-8c4d-8053ffe7e1d7.jpg) 
 
 #### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
+![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
+
 
 # Primeiras 13 Formações:
 
@@ -69,14 +73,19 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 ![UpInside 07 Mindset Empreendedor](https://user-images.githubusercontent.com/76437195/104110795-7759e080-52b1-11eb-9f9a-281af357ae38.jpg) 
 
 #### [8. Git Workflow de carga horária estimada em 15 horas, realizando 42 de 42 atividades, no período de 07/01/2019 a 01/05/2020.](https://www.upinside.com.br/certificados/5572948202005)
+![UpInside 08 Git Workflow](https://user-images.githubusercontent.com/76437195/104112075-afb4eb00-52c0-11eb-9726-5f6ee52b499b.jpg)
 
 #### [9. Wordpress Essentials de carga horária estimada em 15 horas, realizando 20 de 20 atividades, no período de 23/04/2020 a 05/05/2020.](https://www.upinside.com.br/certificados/5572967202005)
+![UpInside 09 Wordpress essentials](https://user-images.githubusercontent.com/76437195/104112076-ba6f8000-52c0-11eb-9ac6-60426e78d703.jpg)
 
 #### [10. Domínio e Hospedagem de carga horária estimada em 15 horas, realizando 10 de 10 atividades, no período de 20/05/2019 a 09/12/2019.](https://www.upinside.com.br/certificados/5572939201912)
+![UpInside 10 Dominio e Hospedagem](https://user-images.githubusercontent.com/76437195/104112081-c3605180-52c0-11eb-909d-63ae5c61263c.jpg)
 
 #### [11. Ferramentas e Configurações de carga horária estimada em 15 horas, realizando 9 de 9 atividades, no período de 20/05/2019 a 09/12/2019.](https://www.upinside.com.br/certificados/5572940201912)
+![UpInside 11 Ferramentas e Configuracoes](https://user-images.githubusercontent.com/76437195/104112083-cce9b980-52c0-11eb-90a3-afc752d64974.jpg)
 
 #### [12. Composer na Prática de carga horária estimada em 10 horas, realizando 22 de 22 atividades, no período de 07/01/2019 a 30/04/2020.](https://www.upinside.com.br/certificados/5572956202004)
+![UpInside 12 Composer na Pratica](https://user-images.githubusercontent.com/76437195/104112087-d70bb800-52c0-11eb-9755-474b8cf51220.jpg)
 
 #### [13. Ambiente Local com Docker de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
 ![UpInside 13 Ambiente Local com Docker](https://user-images.githubusercontent.com/76437195/104111187-8d69a000-52b5-11eb-8c25-17006921bd9a.jpg)
